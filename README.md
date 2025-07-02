@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReyJ-Studios, a 14 year old who has created many projects single-handedly (I am basically a single man army when it comes to programming😜).
+- 👋 Hi, I’m @Reyaansh-Jaiswal, a 17 year old who has created many projects single-handedly.
 - 👀 I’m interested in Coding and Gaming
 - 🌱 I’m currently learning Web Development and App Development
 - 💞️ I’m looking to collaborate on any start-ups where my skills could be put in use
